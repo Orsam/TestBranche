@@ -18,4 +18,7 @@ class Calcul {
     public static function Branche1_2() {
         return "DEZ";
     }
+    public static function Branche1_2_suite() {
+        return "version 1.2";
+    }
 }
