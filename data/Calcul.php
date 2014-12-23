@@ -24,4 +24,7 @@ class Calcul {
     public static function Creation121() {
         return false;
     }
+    public static function Modification121() {
+        return false;
+    }
 }
