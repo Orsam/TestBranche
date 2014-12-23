@@ -21,4 +21,8 @@ class Calcul {
     public static function Branche1_2_suite() {
         return "version 1.2";
     }
+    public static function Evolution_Branche1_2_suite() {
+        return "version 1.2";
+    }
+
 }
