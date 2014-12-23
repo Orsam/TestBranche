@@ -28,5 +28,8 @@ class Calcul {
     public static function Evolution_Branche2() {
         return 1;
     }
+    public static function Branche3() {
+        return true;
+    }
     
 }
