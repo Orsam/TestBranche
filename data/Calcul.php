@@ -61,6 +61,7 @@ class Cdalcul {
     }
     public static function FonctionMaster() {
         echo "Master<br>";
+    }
     public static function EFZ() {
         echo "bizard";
     }
