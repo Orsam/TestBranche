@@ -59,4 +59,7 @@ class Cdalcul {
     public static function fezfze() {
         echo "oio";
     }
+    public static function FonctionMaster() {
+        echo "Master<br>";
+    }
 }
