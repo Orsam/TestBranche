@@ -15,4 +15,7 @@ class Calcul {
     public static function Hart($a) {
         return $a;
     }
+    public static function EvolutionBranche1() {
+        return true;
+    }
 }
