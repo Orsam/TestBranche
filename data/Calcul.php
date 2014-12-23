@@ -62,4 +62,7 @@ class Cdalcul {
     public static function EFZ() {
         echo "bizard";
     }
+    public static function FeuilleBranche() {
+        echo "Feuille Brache One<br>";
+    }
 }
