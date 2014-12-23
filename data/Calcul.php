@@ -30,4 +30,7 @@ class Calcul {
     public static function Continue_Master() {
         return false;
     }
+    public static function Ajout_Master_Generique() {
+        echo "MASTER GENE<br>";
+    }
 }
