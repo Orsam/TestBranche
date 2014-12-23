@@ -30,4 +30,7 @@ class Calcul {
     public static function Continue_Master() {
         return false;
     }
+    public static function Branche3() {
+        return 'Création Branche 3';
+    }
 }
