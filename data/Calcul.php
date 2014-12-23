@@ -27,4 +27,7 @@ class Calcul {
     public static function Modification121() {
         return false;
     }
+    public static function Continue_Master() {
+        return false;
+    }
 }
