@@ -6,4 +6,7 @@ class Calcul {
     public static function MasterD() {
         return "fezfezf";
     }
+    public static function Correctionbug() {
+        return true;
+    }
 }
