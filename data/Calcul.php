@@ -18,4 +18,7 @@ class Calcul {
     public static function EvolutionBranche1() {
         return true;
     }
+    public static function EvolutionB1($a) {
+        return true;
+    }
 }
