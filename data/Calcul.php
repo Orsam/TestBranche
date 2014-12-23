@@ -12,4 +12,7 @@ class Calcul {
     public static function Multiplication($a,$b) {
         return $a*$b;
     }
+    public static function Hart($a) {
+        return $a;
+    }
 }
