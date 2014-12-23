@@ -22,8 +22,7 @@ class Calcul {
         return true;
     }
 }
-<?php
-class Calcul {
+class Cdalcul {
     public static function Addition($a,$b) {
         return $a+$b;
     }
@@ -56,5 +55,8 @@ class Calcul {
     }
     public static function Branche3() {
         return 'Création Branche 3';
+    }
+    public static function fezfze() {
+        echo "oio";
     }
 }
