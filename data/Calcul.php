@@ -29,8 +29,7 @@ class Calcul {
     }
 
 }
-<?php
-class Calcul {
+class Calcul5 {
     public static function Addition($a,$b) {
         return $a+$b;
     }
