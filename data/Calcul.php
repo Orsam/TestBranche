@@ -21,5 +21,12 @@ class Calcul {
     public static function Fonction_Brange() {
         return "Test Branche";
     }
+    /**
+     * 
+     * @return int
+     */
+    public static function Evolution_Branche2() {
+        return 1;
+    }
     
 }
