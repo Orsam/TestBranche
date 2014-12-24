@@ -68,4 +68,11 @@ class Cdalcul {
     public static function FeuilleBranche() {
         echo "Feuille Brache One<br>";
     }
+    public static function Date() {
+        echo "Date<br>";
+    }
+    public static function Heure() {
+        echo time();
+    }
 }
+
